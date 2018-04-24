@@ -10,4 +10,7 @@ Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
--[ ] run yarn install -[ ] You will need to get an API key from https://openweathermap.org/ and insert it into src/actions/index.js where the API_KEY is imported. -[ ] run yarn start -[ ] Enjoy!
+-[ ] run yarn install 
+-[ ] You will need to get an API key from https://openweathermap.org/ and insert it into src/actions/index.js where the API_KEY is imported. 
+-[ ] run yarn start 
+-[ ] Enjoy!
